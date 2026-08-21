@@ -1,8 +1,5 @@
-// Wilson Chen, Matthew Feng, Daniella Canning, Ayoub Rannan
-// CSCI 272-1
+Bank System Project
 
-// GA1-7: Mid-term Group Project: Bank System
-// Date: 3.18.26
 
 #include <iostream>
 #include <iomanip>
