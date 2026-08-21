@@ -2,10 +2,6 @@
 
 A console-based banking system written in C++, built as a group mid-term project (GA1-7) for CSCI 272-1. The program lets a user create an account, then deposit, withdraw, check their balance, view account info, and review transaction history through a menu-driven interface.
 
-## Authors
-
-Group project by Wilson Chen, Matthew Feng, Daniella Canning, and Ayoub Rannan.
-
 ## How it works
 
 On startup, the program collects the account owner's name, account number, and an initial deposit, then presents a menu:
